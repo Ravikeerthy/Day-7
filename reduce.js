@@ -18,6 +18,7 @@ req.onload = function(){
         return acc + (ele.population || 0)});
 
     console.log("TotalPopulation of the coountries is", totalPopulation);
+    
    
     
 }
